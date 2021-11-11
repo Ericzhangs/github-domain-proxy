@@ -1,6 +1,5 @@
 # github-domain-proxy
 
-
 # github
 #52.74.223.119 github.com
 
