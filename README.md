@@ -4,7 +4,7 @@
 # github
 #52.74.223.119 github.com
 
-# GitHub520 Host Start
+# GitHub520 Host Start ；Configure the following to hosts file
 185.199.108.154               github.githubassets.com
 140.82.113.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
